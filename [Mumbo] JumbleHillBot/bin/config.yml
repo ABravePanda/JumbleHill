@@ -1,0 +1,15 @@
+#----------JumbleHill-----------
+
+#This Plugin Is Made For MumboCraft & It's Players & Staff.. Any misuse or re-distribution of this plugin will call for said plugin to be removed
+#Plugin by A_Brave_Panda & Jamdoggy
+
+
+Hostname: 'localhost'
+Port: '3306'
+Database: 'id115504_mumbo'
+Username: 'root'
+Password: ''
+ShopTable: 'shop'
+ItemTable: 'items'
+
+#----------End-Of-Config-----------
